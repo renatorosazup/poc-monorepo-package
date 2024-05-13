@@ -6,7 +6,7 @@ package com.mycompany.app;
  */
 public class FirstApp 
 {
-    public void teste() {
-        System.out.println("First App");
+    public String first() {
+        return "First App";
     }
 }
